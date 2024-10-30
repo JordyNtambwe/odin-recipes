@@ -1,0 +1,1 @@
+This is the first project/assignment from The Odin Project. This project consists of building a basic recipe website using what was taught up until this point, which includes HTML, creating links to different pages on other websites and on your own website, and how to display images on a webpage.
